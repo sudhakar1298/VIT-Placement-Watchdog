@@ -1,0 +1,4 @@
+openpyxl
+plyer
+ollama
+imaplib2
