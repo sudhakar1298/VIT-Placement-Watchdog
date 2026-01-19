@@ -60,7 +60,7 @@ IMAP_SERVER = "imap.gmail.com"
 
 **Note:** Use a Gmail App Password, not your normal Gmail password.
 
-### Getting Your Gmail App Password
+
 
 ## Getting Your Gmail App Password
 
