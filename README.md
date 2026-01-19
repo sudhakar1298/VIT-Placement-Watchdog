@@ -60,6 +60,30 @@ IMAP_SERVER = "imap.gmail.com"
 
 **Note:** Use a Gmail App Password, not your normal Gmail password.
 
+### Getting Your Gmail App Password
+
+Gmail does not allow normal account passwords for scripts.
+You must generate an App Password.
+
+Steps:
+
+Go to:
+https://myaccount.google.com/security
+
+Enable 2-Step Verification (if it is not already enabled)
+
+After enabling 2-Step Verification, open:
+https://myaccount.google.com/apppasswords
+
+Under Select app → choose Mail
+
+Under Select device → choose Windows Computer (or “Other” → type InboxSentinel)
+
+Click Generate
+
+Google will show a 16-character password like:
+
+abcd efgh ijkl mnop
 ## Run
 
 ```bash
